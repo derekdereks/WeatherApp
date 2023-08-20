@@ -98,5 +98,5 @@ cd WeatherApp/script
 ```
 #### b. Run the provided script:
 ```bash
-python app.py
+python deploy.py
 ```
